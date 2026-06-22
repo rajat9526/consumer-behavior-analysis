@@ -41,7 +41,7 @@ A leading retail company noticed shifts in purchasing patterns across demographi
 | Tool | Purpose |
 |------|---------|
 | Python (Pandas, NumPy) | Data cleaning & feature engineering |
-| SQL (PostgreSQL) | Structured queries & customer segmentation |
+| SQL (MySQL) | Structured queries & customer segmentation |
 | Power BI | Interactive dashboard & visualization |
 | Jupyter Notebook | Exploratory data analysis |
 | GitHub | Version control & project showcase |
