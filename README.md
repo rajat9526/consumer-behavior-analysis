@@ -1,4 +1,4 @@
-# 🛒 Consumer Behavior Analysis
+# 🔁 Customer Churn & Retention Analytics (LLM-Augmented)
 ### Retail Intelligence using Python · SQL · Power BI
 
 ---
